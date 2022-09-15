@@ -1,0 +1,66 @@
+#backw{
+    -fx-background-color: rgb(177, 42, 42);
+
+}
+
+#radioWhite,
+#radioWheat,
+#radioNone,
+#radioRegular,
+#radioCappuccino,
+#radioCafeAU,
+#radioCreamCheese,
+#radioButter,
+#radioBlueberryJam,
+#radioRaspberryJam,
+#radioPeachJelly {
+    -fx-background-color: rgb(104, 250, 30);
+}
+
+#radioWhite:hover,
+#radioWheat:hover,
+#radioNone:hover,
+#radioRegular:hover,
+#radioCappuccino:hover,
+#radioCafeAU:hover,
+#radioCreamCheese:hover,
+#radioButter:hover,
+#radioBlueberryJam:hover,
+#radioRaspberryJam:hover,
+#radioPeachJelly:hover {
+    -fx-background-color: rgb(147, 30, 250);
+}
+
+
+#textQtyTwo,
+#textQtyThree {
+    -fx-font-weight: bold;
+    -fx-fill: linear-gradient(rgb(255, 179, 0), rgb(3, 54, 43));
+}
+
+#buttonCalculate,
+#buttonReset,
+#buttonExit {
+    -fx-background-color: rgb(30, 56, 250);
+    -fx-font-weight: bold;
+
+}
+
+#textSubTotal,
+#textTax,
+#textTotalSale {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-fill: linear-gradient(aqua, red);
+    -fx-font-style: italic;
+}
+
+#buttonReceiptFile,#buttonReceiptPrinter{
+    -fx-background-color: rgb(221, 250, 30);
+    -fx-font-weight: bold;
+}
+
+#rectangleOne,#rectangleTwo,#rectangleThird,#rectangleFourth{
+    -fx-background-color: rgb(248, 173, 0);
+    -fx-fill: rgb(43, 211, 249);
+}

@@ -1,0 +1,15 @@
+********WELCOME TO SHERIDAN BAGEL SHOP******** 
+
+Mon Aug 08 13:24:35 EDT 2022
+Item Name: 		Quantity	Amount 
+
+White Bagel		1		$1.5
+Butter			1		$0.25
+Blueberry Jam		1		$0.75
+Regular Coffee		1		$1.25
+				---------------
+SubTotal				$3.75
+TAX					$0.48750000000000004
+Total Sales			$4.2375
+
+*******************THANK YOU*******************
